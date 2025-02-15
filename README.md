@@ -9,7 +9,7 @@ Clustering analysis using the Elbow Method for optimal cluster selection on the 
 ---
 
 ## 📌 Project Overview
-This project focuses on **species segmentation using K-Means clustering** to group flowers from the **Iris dataset** into clusters. The **Elbow Method** was used to determine the optimal number of clusters.
+This project focuses on **species segmentation using K-Means clustering** to group flowers from the **Iris dataset** into clusters. I used the **Elbow Method** to determine the optimal number of clusters.
 
 ### 📂 Dataset Description
 - **`iris-dataset.csv`**: Contains Sepal & Petal measurements for three Iris species.
